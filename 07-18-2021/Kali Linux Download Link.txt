@@ -1,0 +1,3 @@
+https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/
+
+SHA256 SUM : ac5d1c2c124ed0974c13a5619b6a8d65064586e5a44961ff00a6e1a2e717abdc
