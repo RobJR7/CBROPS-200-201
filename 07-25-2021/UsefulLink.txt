@@ -1,5 +1,6 @@
-https://kali.training/
-https://www.parrotsec.org/
-https://blackarch.org/
-https://www.rundeck.com/
-https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=
+Kali - https://kali.training/
+Parrot OS - https://www.parrotsec.org/
+Black Arch - https://blackarch.org/
+RBA - https://www.rundeck.com/
+CVE - https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=
+GHDB - https://www.exploit-db.com/ghdb/7041
