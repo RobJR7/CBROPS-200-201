@@ -1,0 +1,5 @@
+https://kali.training/
+https://www.parrotsec.org/
+https://blackarch.org/
+https://www.rundeck.com/
+https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=
