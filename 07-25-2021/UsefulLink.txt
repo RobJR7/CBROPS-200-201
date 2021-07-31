@@ -6,6 +6,7 @@ Black Arch - https://blackarch.org/
 RBA - https://www.rundeck.com/
 
 NIST Intelligence & Google Hacking Database
+-------------------------------------------
 CVE - https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=
 NCP - https://ncp.nist.gov/repository
 GHDB - https://www.exploit-db.com/ghdb/7041
