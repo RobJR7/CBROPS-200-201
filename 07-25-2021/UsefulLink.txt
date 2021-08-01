@@ -10,3 +10,4 @@ NIST Intelligence & Google Hacking Database
 CVE - https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=
 NCP - https://ncp.nist.gov/repository
 GHDB - https://www.exploit-db.com/ghdb/7041
+Netcraft - https://searchdns.netcraft.com/
